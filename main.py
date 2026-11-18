@@ -11,8 +11,8 @@ beside the dark keyboard.
 One green light stays on.
 
 In the glass door,
-it makes another light,
-smaller, farther in."""
+a second green point
+hangs one room deeper."""
 
 
 def main():
